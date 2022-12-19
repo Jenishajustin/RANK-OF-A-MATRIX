@@ -27,6 +27,11 @@ print(B)
 
 
 
+
+
+
+
+
 ## Output:
 
 ![MODEL](rankofamatrix.png)
